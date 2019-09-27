@@ -15,3 +15,6 @@ Sentiment analysis using Deep Learning (Recurent neural network and LSTM)
 - Saved model: .ipynb_checkpoints
 - Test file: Pre-Trained LSTM.ipynb
 - And pretrained wordvectors and wordlist.
+
+
+### Dataset: Kaggle
